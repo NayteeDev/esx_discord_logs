@@ -8,4 +8,3 @@ esx_discord_logs for fivem server ESX framework only
 4) Add `start esx_discord_logs` to your server.cfg
 5) Reboot your server
 
-![](https://img001.prntscr.com/file/img001/dQfwPYsoSxaOEFv4IxW4Lw.png)
